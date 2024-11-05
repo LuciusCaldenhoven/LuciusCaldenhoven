@@ -3,9 +3,8 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a student at San Pablo Catholic University (UCSP) in the class of 2021, pursuing a major in Computer Science. I am comfortable coding in Python, C++, and JavaScript. When I'm not in classes, I'm often working on personal projects or exploring new technologies on my own.
-I'm also involved in various extracurricular activities, including participating in programming competitions, contributing to open-source projects, and engaging in tech communities.
--🌱 I’m currently learning ...
+I am a student at San Pablo Catholic University (UCSP) in the class of 2021, pursuing a major in Computer Science. I am comfortable coding in Python, C++, and JavaScript. When I'm not in classes, I'm often working on personal projects or exploring new technologies on my own. I'm also involved in various extracurricular activities, including participating in programming competitions, contributing to open-source projects, and engaging in tech communities.
+- 🌱 I’m currently learning ...
    -Machine Learning and Artificial Intelligence
 -👯 I’m looking forward to collaborate on open source projects.
 -✔ Ask me about anything, I am happy to help<br>
@@ -57,15 +56,13 @@ I'm also involved in various extracurricular activities, including participating
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+I am a student at San Pablo Catholic University (UCSP) in the class of 2021, pursuing a major in Computer Science. I am comfortable coding in Python, C++, and JavaScript. When I'm not in classes, I'm often working on personal projects or exploring new technologies on my own. I'm also involved in various extracurricular activities, including participating in programming competitions, contributing to open-source projects, and engaging in tech communities.
 - 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+   -Machine Learning and Artificial Intelligence
+-👯 I’m looking forward to collaborate on open source projects.
+-✔ Ask me about anything, I am happy to help<br>
+-Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+-📫 Reach out to me at: <a href="lucius.caldenhoven@ucsp.edu.pe">lucius.caldenhoven@ucsp.edu.pe</a>
 
 ## My Skills Include
 
