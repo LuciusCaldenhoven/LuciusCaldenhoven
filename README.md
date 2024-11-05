@@ -58,11 +58,11 @@ I am a student at San Pablo Catholic University (UCSP) in the class of 2021, pur
 
 I am a student at San Pablo Catholic University (UCSP) in the class of 2021, pursuing a major in Computer Science. I am comfortable coding in Python, C++, and JavaScript. When I'm not in classes, I'm often working on personal projects or exploring new technologies on my own. I'm also involved in various extracurricular activities, including participating in programming competitions, contributing to open-source projects, and engaging in tech communities.
 - 🌱 I’m currently learning ...
-   -Machine Learning and Artificial Intelligence
--👯 I’m looking forward to collaborate on open source projects.
--✔ Ask me about anything, I am happy to help<br>
--Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
--📫 Reach out to me at: <a href="lucius.caldenhoven@ucsp.edu.pe">lucius.caldenhoven@ucsp.edu.pe</a>
+   - Machine Learning and Artificial Intelligence
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+- 📫 Reach out to me at: <a href="lucius.caldenhoven@ucsp.edu.pe">lucius.caldenhoven@ucsp.edu.pe</a>
 
 ## My Skills Include
 
