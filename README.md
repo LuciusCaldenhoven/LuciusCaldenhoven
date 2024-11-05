@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif" width="30px">&nbsp;***About me***
 
 I am a student at San Pablo Catholic University (UCSP) in the class of 2021, pursuing a major in Computer Science. I am comfortable coding in Python, C++, and JavaScript. When I'm not in classes, I'm often working on personal projects or exploring new technologies on my own. I'm also involved in various extracurricular activities, including participating in programming competitions, contributing to open-source projects, and engaging in tech communities.
 - 🌱 I’m currently learning ...
