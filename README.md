@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Lucius Caldenhoven </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-
+<img align="right" width=300px alt="Unicorn" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramador-gifs&psig=AOvVaw3Mt2mnB-y_sTfGmbRbKTzC&ust=1730867319225000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiA_q-txIkDFQAAAAAdAAAAABAE" />
 ***About me***
 
 I am a student at San Pablo Catholic University (UCSP) in the class of 2021, pursuing a major in Computer Science. I am comfortable coding in Python, C++, and JavaScript. When I'm not in classes, I'm often working on personal projects or exploring new technologies on my own.
